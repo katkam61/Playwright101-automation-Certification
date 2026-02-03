@@ -8,7 +8,7 @@ This repository contains my Playwright automation assessment created as part of 
 
 ## Project Structure
 tests/
- |___ playwrightAssessment.test.ts
+playwrightAssessment.test.ts
 playwright.config.ts
 
 ## How to Run
